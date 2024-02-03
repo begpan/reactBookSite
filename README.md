@@ -1,53 +1,19 @@
-# Routes
+<h2>BookShop</h2>
 
-Routes: tarayıcıdaki url'i izler url değiştiğinde
-yol tanımladığımız route'lardan birinin path
-değeri ile eşleşirse ekrana o route'un elementini basar
+It is a react project in which the pagination structure is created with react route dom, which consists of home page products and category sections, where books prepared with fake api json server are listed and filtered.
 
-# Link
+<h3>Available Scripts</h3>
 
-- Proje içerisnde yönlendirme işlemlendirde a etiketi yerine kullanılır.
-- Href yerine to değeri yönlendirilecek sayfayı belirler
+In the project directory, you can run:
 
-# Navlink
+### `npm create vite` <br/>
 
-- Link etiketi iile aynı görevi yapar
+### `npm run server` <br/>
 
-- Kullanıcı eğerki o linkin to değerii ile yönlendirme yaptığı sayfadaysa link active class'ı alır
+### `npm run dev` <br/>
 
-# Dynamic Route
+Runs the app in the development mode.
+The page will reload if you make edits.
+You will also see any lint errors in the console.
 
-- Sayfa içeriğini url'den alınan parametrele göre değiştiği sayfalara verdiğimiz isim.
-
-- Örn:
-
-- Yoturube video sayfası
-- Netflix film detay sayfası
-- Amazon ürün sayfası
-
-# useLocation
-
-- Kullanıncın bulunduğu sayfa ile alakalı bilgileri alır
-
-- state / path / hash / param
-
-# useNavigate
-
-- Linkin fonksiyon karşılığı
-- Kullanabilmesi için bir kere çağrılması gerkeli bileşende
-- nconst navigate = useNavigate();
-
-# Search Params (Arama Parametresi)
-
-- Normalde state'de ttuucağımız değerleri arama parametresinde tutmak isteyebiliriz
-
-- State'de tutlan veriler sayfa yenilidğinde kaybolur
-
-- Ama arama parametrelerinde böyle bir durum söz konusu değildir.
-
-- Bu yüzden sayfa yenilenenince kaybet istemeyiceğimiz örneğin filtreleme değerlerini arama parametresi olarka tutarız
-
-# Nested Router (İç İçe Yollar)
-
-<!--  -->
-# reactBookSite
+<h3>Screen Gif</h3>
