@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://picsum.photos/900",
+      "year": 1866,
+      "page": 500,
+      "description": "Raskolnikov hayatı"
+    },
+    {
+      "id": 2,
+      "title": "Karanlık Kitaplık",
+      "author": "H.P. Lovecraft",
+      "image": "https://picsum.photos/901",
+      "year": 1927,
+      "page": 350,
+      "description": "Korku ve gerilim dolu öyküler"
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/902",
+      "year": 1949,
+      "page": 328,
+      "description": "Distopik bir gelecekte totaliter bir rejim"
+    },
+    {
+      "id": 4,
+      "title": "Siyah Çığlık",
+      "author": "Edgar Allan Poe",
+      "image": "https://picsum.photos/903",
+      "year": 1849,
+      "page": 150,
+      "description": "Karanlık şiirler ve hikayeler"
+    },
+    {
+      "id": 5,
+      "title": "Drakula",
+      "author": "Bram Stoker",
+      "image": "https://picsum.photos/904",
+      "year": 1897,
+      "page": 418,
+      "description": "Vampir mitolojisinin klasik eseri"
+    },
+    {
+      "id": 6,
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "image": "https://picsum.photos/905",
+      "year": 1961,
+      "page": 453,
+      "description": "II. Dünya Savaşı döneminde geçen absürt bir savaş romanı"
+    },
+    {
+      "id": 7,
+      "title": "İnsan Neyle Yaşar?",
+      "author": "Lev Tolstoy",
+      "image": "https://picsum.photos/906",
+      "year": 1899,
+      "page": 96,
+      "description": "Yaşamın anlamını sorgulayan bir deneme"
+    },
+    {
+      "id": 8,
+      "title": "Kırmızı Pazartesi",
+      "author": "Gabriel Garcia Marquez",
+      "image": "https://picsum.photos/907",
+      "year": 1981,
+      "page": 152,
+      "description": "Latin Amerika'nın gerçeküstü edebiyatın ustasından bir roman"
+    },
+    {
+      "id": 9,
+      "title": "Doğu Ekspresinde Cinayet",
+      "author": "Agatha Christie",
+      "image": "https://picsum.photos/908",
+      "year": 1934,
+      "page": 256,
+      "description": "Ünlü dedektif Hercule Poirot'nun maceraları"
+    }
+  ]
+}
